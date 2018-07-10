@@ -1,5 +1,3 @@
-#include <Brain.h>
-
 #include<Servo.h>
 Servo base;
 Servo upper; //upper arm
